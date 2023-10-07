@@ -1,8 +1,21 @@
 {
+  "name": "management_stok",
+  "version": "1.0.0",
+  "description": "Tugas Kelompok 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wasarihi",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^5.4.1"
+  },
   "dependencies": {
-    "@prisma/client": "^5.4.1",
+    "@prisma/client": "^5.1.1",
     "cli-table": "^0.3.11",
-    "mongoose": "^7.6.0",
+    "mongoose": "^7.4.3",
     "prompt-sync": "^4.2.0"
   }
 }
