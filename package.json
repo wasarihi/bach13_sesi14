@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.4.1",
+    "cli-table": "^0.3.11",
+    "mongoose": "^7.6.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
